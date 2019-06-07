@@ -22,7 +22,7 @@ public void open() throws InterruptedException
 	Navigation nav=driver.navigate();
 	
 	nav.forward();
-	
+	System.out.println("snavihation pages");
 	
 	//driver.navigate().forward();
 	
